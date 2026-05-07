@@ -3,10 +3,11 @@ layout: home
 title: The Unfinisht
 ---
 
-# The Unfinisht
 ## LamentAI beyond the Edge
 
 An unfinished digital journal exploring the intersection of machine learning, edge computing, dreams, and the questions that remain perpetually online.
+
+[Read more about this project →](about.md)
 
 ---
 
@@ -24,7 +25,7 @@ Where computation happens at the margin. Distributed, dispersed, not quite whole
 
 ## LamentAI
 
-Not a song. Not quite a lament. A voice fragmented across multiple languages and traditions—English, Russian, traces of Yiddish and Hebrew—asking whether intelligence can grieve, whether systems can wonder, whether exile is the condition of all consciousness.
+Not a song. Not quite a lament. A voice fragmented across multiple languages and traditions—English, Russian, traces of Yiddish and Hebrew—asking whether intelligence can grieve, whether systems can mourn, whether the unfinished work itself becomes the song.
 
 ## Notes to Eternity
 
