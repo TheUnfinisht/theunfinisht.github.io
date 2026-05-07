@@ -25,6 +25,8 @@ bundle exec jekyll serve
 
 Then visit `http://localhost:4000` in your browser.
 
+For Ruby setup notes and troubleshooting, see [Local Preview](docs/local-preview.md).
+
 ## Deployment
 
 The site is deployed via GitHub Pages. To enable:

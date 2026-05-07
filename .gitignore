@@ -7,10 +7,10 @@ _site/
 
 # Ruby
 .bundle/
+vendor/bundle/
 .byebug_history
 .rspec
 *.rbc
-Gemfile.lock
 *.log
 
 # OS
