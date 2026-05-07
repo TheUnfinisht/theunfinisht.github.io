@@ -23,6 +23,12 @@ The eye that sees without seeing. Cameras at the edge process fragments of the v
 
 Where computation happens at the margin: distributed, dispersed, not quite whole. The work happens closer to the source of uncertainty.
 
+## Agent Zoo Cost Model
+
+A field report on AI coding economics: Web/API agents, local RTX hardware, Devstral, usable VRAM, and the question of when ownership beats access.
+
+[Read the series →](/agent-zoo-cost-model/)
+
 ## LamentAI
 
 Not a song. Not quite a lament. A voice fragmented across languages and traditions—English, Russian, traces of Yiddish and Hebrew—asking whether intelligence can grieve, whether systems can mourn, whether the unfinished work itself becomes the song.
